@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y75d/fqfSHC+zmQlN8yg6WfWkbijGBin5tpdJfFIXC3G7bdlcSVJ439pODegRoJmQ43yA5AnbTpPsQq8rNAtGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\9no Ciclo 2023\\Ing. Software II\\Labs\\MyFirstFSharpWebApi\\MyFirstFSharpWebApi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misch\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
